@@ -60,9 +60,8 @@ plt.ylabel("loss")
 ~~~
 
 ## Output:
-![linear regression using gradient descent](https://github.com/ragulmani936/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/1.jpeg)
-![linear regression using gradient descent](https://github.com/ragulmani936/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/2.jpeg)
-![linear regression using gradient descent](https://github.com/ragulmani936/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/3.jpeg)
+![pic 1]()
+![pic 2]()
 ![linear regression using gradient descent](https://github.com/ragulmani936/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/4.jpeg)
 
 ## Result:
